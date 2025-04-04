@@ -1,6 +1,10 @@
 ## rpaBolivia - Registro Publico de Abogados
 
+  <img src="[https://i.ibb.co/Xxyz123/banner-proyecto.png](https://i.ibb.co/Kj3d74Wc/screen.png)" alt="Banner" width="800"/>
+</p>
+
 ![demo]([https://i.ibb.co/HGd7Ny7/querytools.png](https://i.ibb.co/Kj3d74Wc/screen.png))
+<p align="center">
 
 
 ## **INFORMACION**
