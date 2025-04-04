@@ -42,5 +42,5 @@ Obtencion de informacion:
 
 Nos apasiona compartir y mejorar. ¡Aporta tus ideas o mejoras!
 
-- Gmail **correo gmail**: [Join us](mail://blackraven01010@gmail.com)
-- Telegram **grupo de telegram**: [Follow us](https://t.me/CypherNight_coders)
+- Gmail **correo gmail**: [Contactanos](mailto://blackraven01010@gmail.com)
+- Telegram **grupo de telegram**: [Unete al grupo](https://t.me/CypherNight_coders)
